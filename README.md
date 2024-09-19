@@ -1,1 +1,3 @@
-# Qa_guru_lesson_3-
+# Qa_guru_lesson_3
+
+Эта строчка добавлена через ГИТ
